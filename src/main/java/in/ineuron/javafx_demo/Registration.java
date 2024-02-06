@@ -155,6 +155,8 @@ public class Registration extends Application {
 
         //Displaying the contents of the stage
         stage.show();
+
+        System.out.println();
     }
     public static void main(String[] args){
         launch(args);
